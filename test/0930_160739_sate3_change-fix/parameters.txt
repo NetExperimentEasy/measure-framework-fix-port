@@ -1,0 +1,27 @@
+Test Name: sate3_change-fix
+Date: Fri Sep 30 16:07:39 2022
+Kernel: b'4.14.146.mptcp #17 SMP Tue Sep 24 12:55:02 UTC 2019 GNU/Linux'
+Git Commit: b'8df0485285d3375c75f24bf76555e8aefdad5ddf'
+Initial Bandwidth: 10Mbit
+Burst Buffer: 1600b
+Buffer Latency: 100ms
+Initial Link RTT: 0ms
+Initial Link Loss: 0%
+Commands: 
+host, cubic, 0ms, 0.0, 40.0
+link, bw, 20mbit, 0.0
+link, rtt, 40ms, 0.0
+link, bw, 10mbit, 5.0
+link, rtt, 40ms, 0.0
+link, bw, 20mbit, 5.0
+link, rtt, 40ms, 0.0
+link, bw, 10mbit, 5.0
+link, rtt, 40ms, 0.0
+link, bw, 20mbit, 5.0
+link, rtt, 40ms, 0.0
+link, bw, 10mbit, 5.0
+link, rtt, 40ms, 0.0
+link, bw, 20mbit, 5.0
+link, rtt, 40ms, 0.0
+link, bw, 10mbit, 5.0
+link, rtt, 40ms, 0.0
