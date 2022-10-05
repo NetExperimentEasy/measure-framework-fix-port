@@ -1,5 +1,5 @@
 # Notices
-This repo is fored from https://gitlab.lrz.de/tcp-bbr/measurement-framework, which we changed and used for our experiments.
+This repo is forked from https://gitlab.lrz.de/tcp-bbr/measurement-framework, which we changed and used for our experiments.
 All copyrights belong to their authors. If you use this tool, i recommend you to browse their paper and cite it.
 
 # changes
